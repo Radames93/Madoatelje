@@ -1,0 +1,29 @@
+/* NAVBAR STYLING STARTS */
+
+.firstContainer {
+  background: #f7cac9;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.items {
+  color: #000000;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.item3 > .subitem {
+  color: #000000;
+  margin: 5px;
+}
+
+/* LOGO */
+
+.logo {
+  font-size: 32px;
+}
+
+/* NAVBAR MENU */
