@@ -15,9 +15,17 @@
   text-align: center;
 }
 
+.item2 {
+  flex-grow: 1;
+}
+
+img {
+  margin: -10px;
+}
+
 .item3 > .subitem {
   color: #000000;
-  margin: 5px;
+  margin: 15px;
 }
 
 /* LOGO */
